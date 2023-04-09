@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap');
+body{
+	background: #606060;
+	padding:20px;
+}
+.corpo{
+	border:5px double #5e3c3c;
+	padding:20px;
+}
+h1{
+	color:#5e3c3c;
+	margin-top:30%;
+}
+ul{
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		margin-right:7%;
+}
+li{
+		color:#5075e0;
+}
+.botao:hover{
+		color:#878787d4;
+		font-weight:bold;
+		border:2px solid #5f5f5f;
+}
+a{
+	text-decoration: none;
+	color:#5e3c3c;
+	font-weight:bold;
+	border: 2px solid #5e3c3c;
+	border-radius:20px;
+	padding:5px;
+}
+.center{
+	text-align-last: center;
+}
+img{
+	max-width:150px;
+	height:150px;
+	border-radius:50%;
+	border:3px solid #5e3c3c;
+	margin-top:20%;
+}
+.cor{
+	color:#5e3c3c;
+}
+p, h1, h2, h3, a{
+	font-family: 'Schibsted Grotesk', sans-serif;
+	font-size:17px;
+}
+
+
+

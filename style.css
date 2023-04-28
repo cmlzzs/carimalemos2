@@ -41,7 +41,7 @@
     	text-decoration: line-through;
     	color:hsl(228, 12%, 48%);
     	position: absolute;
-    	bottom:16%;
+    	bottom:100px;
     	left:45%;
     	font-size:13px;
     }
